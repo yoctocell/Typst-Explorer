@@ -1,0 +1,22 @@
+{
+  "name": "typst-explorer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/R-Jin/Typst-Explorer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/R-Jin/Typst-Explorer/issues"
+  },
+  "homepage": "https://github.com/R-Jin/Typst-Explorer#readme",
+  "dependencies": {
+    "paper": "^0.12.17"
+  }
+}
